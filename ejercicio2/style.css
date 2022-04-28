@@ -1,0 +1,22 @@
+h1 {
+    display: flex;
+    justify-content: space-around;
+}
+ li{
+    list-style:none
+    
+    
+ }
+ .contador {
+     margin: 10px;
+ }
+ul{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+input{
+    width: 224px;
+}
