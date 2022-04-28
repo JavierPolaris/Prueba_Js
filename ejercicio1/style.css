@@ -1,0 +1,17 @@
+h1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+ 
+div {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around; 
+}
+
+button{
+    background-color: aqua;
+    width: 163px;
+    height: 163px;
+}
